@@ -1,7 +1,6 @@
-# Curso-Big-Data
+# BIG DATA. MODULO 5 - MACHINE LEARNING
 
-
-Ejercicios Modulo 5 
+EJERCICIOS
 
 
 DIA 1
