@@ -24,8 +24,10 @@ SPACE-X. Cargo datos cohete
 
 DIA 3
 
-Prophet - Predecir el valor de Tesla
-
-Prophet V2 - Predecir valor Bitcoin 
+Prophet V2 - Predecir valor Bitcoin (Hecho+Teoria)
 
 Prophet - Predecir valor Bitcoin (Avanzado)
+
+Prophet - Predecir el valor de Tesla
+
+
