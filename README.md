@@ -25,6 +25,8 @@ DIA 3
 
 Prophet V2 - Predecir valor Bitcoin (Hecho+Teoria)
 
+https://facebook.github.io/prophet/docs/quick_start.html   (Para completar la predicción)
+
 Prophet - Predecir valor Bitcoin (Avanzado)
 
 Prophet - Predecir el valor de Tesla
